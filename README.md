@@ -5,8 +5,9 @@
 ###### Erin Abbott
 ###### Environmental and Urban Studies major, GIS minor, pre-med
 ###### University of Chicago '21
-###### [UChicago CSDS RA:](https://spatial.uchicago.edu/directories/full/Research-Assistants).
-###### [Harvard CGA NSF REU Fellow:](https://gis.harvard.edu/people/erin-abbott).
+###### Research positions:
+* [UChicago CSDS RA](https://spatial.uchicago.edu/directories/full/Research-Assistants).
+* [Harvard CGA NSF REU Fellow](https://gis.harvard.edu/people/erin-abbott).
 
 
 
