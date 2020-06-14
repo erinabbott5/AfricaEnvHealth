@@ -3,8 +3,11 @@
 
 ### Author Information:
 Erin Abbott
+
 Environmental and Urban Studies major, GIS minor, pre-med
+
 University of Chicago '21
+
 
 
 ### Overview
@@ -61,7 +64,8 @@ The following varaibles are included in the master spatial data set:
 * More immediate work will be to clean and add panel data for the years 2000, 2005, 2010, and 2015 to the master dataset in order to run spatiotemporal regressions to better understand the relationship of the environment and health. 
 * Following the inclusion of panel data and final edits, this package will be submitted to CRAN. 
 
- 
+
+
 If you are interested in seeing an application of the AHE master dataset, feel free to watch this [presentation](https://drive.google.com/open?id=1wtoZAnzZ5_Fm7Fl7rLkGFGQloOc81b23). 
   
 
