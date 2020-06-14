@@ -2,9 +2,9 @@
 
 
 ### Author Information:
-##### Erin Abbott
-##### Environmental and Urban Studies major, GIS minor, pre-med
-##### University of Chicago '21
+Erin Abbott
+Environmental and Urban Studies major, GIS minor, pre-med
+University of Chicago '21
 
 
 
