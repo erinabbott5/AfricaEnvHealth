@@ -1,0 +1,14 @@
+Package: AfricaEnvHealth
+Title: Data Package to Aid the Study of Health and the Environment in Africa
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Erin",
+           family = "Abbott",
+           role = c("aut", "cre"),
+           email = "abbotte@uchicago.edu")
+Description: The AfricaEnvHealth data package is a spatiotemporal dataset for Africa on the environment and human health. The master dataset in this packages includes varaibles that may aid in the study of relationships for environmental, behavioral, and health prevalence data across space and time at the country level for the continent of Africa. 
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0

@@ -1,0 +1,55 @@
+﻿iso_a3,iso_n3,name_0,indicator_name,weight,score,score_ranked,cat,label,un_region,wb_region,population_2019_million
+LBY,434,Libya,bws,Tot,4.55,6,4,Extremely High (>80%),Africa,Middle East & North Africa,6.569864
+ERI,232,Eritrea,bws,Tot,4.33,9,4,Extremely High (>80%),Africa,Sub-Saharan Africa,5.309659
+BWA,72,Botswana,bws,Tot,4.02,17,4,Extremely High (>80%),Africa,Sub-Saharan Africa,2.374636
+MAR,504,Morocco,bws,Tot,3.89,22,3,High (40-80%),Africa,Middle East & North Africa,36.635156
+DZA,12,Algeria,bws,Tot,3.69,29,3,High (40-80%),Africa,Middle East & North Africa,42.679018
+TUN,788,Tunisia,bws,Tot,3.67,30,3,High (40-80%),Africa,Middle East & North Africa,11.783168
+BFA,854,Burkina Faso,bws,Tot,3.42,35,3,High (40-80%),Africa,Sub-Saharan Africa,20.32156
+DJI,262,Djibouti,bws,Tot,3.37,36,3,High (40-80%),Africa,Middle East & North Africa,0.98569
+NAM,516,Namibia,bws,Tot,3.31,37,3,High (40-80%),Africa,Sub-Saharan Africa,2.641996
+NER,562,Niger,bws,Tot,3.28,39,3,High (40-80%),Africa,Sub-Saharan Africa,23.176691
+EGY,818,Egypt,bws,Tot,3.07,43,3,High (40-80%),Africa,Middle East & North Africa,101.168745
+SDN,729,Sudan,bws,Tot,2.92,47,2,Medium - High (20-40%),Africa,Sub-Saharan Africa,42.514094
+ZAF,710,South Africa,bws,Tot,2.89,48,2,Medium - High (20-40%),Africa,Sub-Saharan Africa,58.065097
+MRT,478,Mauritania,bws,Tot,2.14,61,2,Medium - High (20-40%),Africa,Sub-Saharan Africa,4.661149
+LSO,426,Lesotho,bws,Tot,2.13,63,2,Medium - High (20-40%),Africa,Sub-Saharan Africa,2.292682
+ZWE,716,Zimbabwe,bws,Tot,1.79,72,1,Low - Medium (10-20%),Africa,Sub-Saharan Africa,17.297495
+AGO,24,Angola,bws,Tot,1.66,76,1,Low - Medium (10-20%),Africa,Sub-Saharan Africa,31.787566
+TZA,834,Tanzania,bws,Tot,1.63,79,1,Low - Medium (10-20%),Africa,Sub-Saharan Africa,60.913557
+SSD,728,South Sudan,bws,Tot,1.52,84,1,Low - Medium (10-20%),Africa,Sub-Saharan Africa,13.263184
+TCD,148,Chad,bws,Tot,1.44,87,1,Low - Medium (10-20%),Africa,Sub-Saharan Africa,15.814345
+SEN,686,Senegal,bws,Tot,1.44,88,1,Low - Medium (10-20%),Africa,Sub-Saharan Africa,16.743859
+NGA,566,Nigeria,bws,Tot,1.39,91,1,Low - Medium (10-20%),Africa,Sub-Saharan Africa,200.962417
+ETH,231,Ethiopia,bws,Tot,1.11,96,1,Low - Medium (10-20%),Africa,Sub-Saharan Africa,110.135635
+SWZ,748,Swaziland,bws,Tot,1.08,98,1,Low - Medium (10-20%),Africa,Sub-Saharan Africa,1.415414
+SOM,706,Somalia,bws,Tot,1.01,100,1,Low - Medium (10-20%),Africa,Sub-Saharan Africa,15.636171
+RWA,646,Rwanda,bws,Tot,0.99,101,0,Low (<10%),Africa,Sub-Saharan Africa,12.794412
+GNB,624,Guinea-Bissau,bws,Tot,0.98,103,0,Low (<10%),Africa,Sub-Saharan Africa,1.953723
+MOZ,508,Mozambique,bws,Tot,0.98,104,0,Low (<10%),Africa,Sub-Saharan Africa,31.408823
+KEN,404,Kenya,bws,Tot,0.93,106,0,Low (<10%),Africa,Sub-Saharan Africa,52.214791
+ZMB,894,Zambia,bws,Tot,0.81,110,0,Low (<10%),Africa,Sub-Saharan Africa,18.137369
+GHA,288,Ghana,bws,Tot,0.75,114,0,Low (<10%),Africa,Sub-Saharan Africa,30.09697
+MDG,450,Madagascar,bws,Tot,0.69,116,0,Low (<10%),Africa,Sub-Saharan Africa,26.969642
+MWI,454,Malawi,bws,Tot,0.56,122,0,Low (<10%),Africa,Sub-Saharan Africa,19.718743
+MLI,466,Mali,bws,Tot,0.55,123,0,Low (<10%),Africa,Sub-Saharan Africa,19.68914
+BDI,108,Burundi,bws,Tot,0.42,130,0,Low (<10%),Africa,Sub-Saharan Africa,11.575964
+UGA,800,Uganda,bws,Tot,0.26,135,0,Low (<10%),Africa,Sub-Saharan Africa,45.711874
+GIN,324,Guinea,bws,Tot,0.19,138,0,Low (<10%),Africa,Sub-Saharan Africa,13.39818
+BEN,204,Benin,bws,Tot,0.18,139,0,Low (<10%),Africa,Sub-Saharan Africa,11.801595
+COD,180,Democratic Republic of the Congo,bws,Tot,0.04,143,0,Low (<10%),Africa,Sub-Saharan Africa,86.727573
+CIV,384,Côte d'Ivoire,bws,Tot,0.04,144,0,Low (<10%),Africa,Sub-Saharan Africa,25.531083
+CMR,120,Cameroon,bws,Tot,0.04,145,0,Low (<10%),Africa,Sub-Saharan Africa,25.312993
+GMB,270,Gambia,bws,Tot,0.04,146,0,Low (<10%),Africa,Sub-Saharan Africa,2.228075
+CAF,140,Central African Republic,bws,Tot,0.03,148,0,Low (<10%),Africa,Sub-Saharan Africa,4.825711
+SLE,694,Sierra Leone,bws,Tot,0.01,149,0,Low (<10%),Africa,Sub-Saharan Africa,7.883123
+TGO,768,Togo,bws,Tot,0,152,0,Low (<10%),Africa,Sub-Saharan Africa,8.186384
+COG,178,Republic of Congo,bws,Tot,0,154,0,Low (<10%),Africa,Sub-Saharan Africa,5.542197
+GAB,266,Gabon,bws,Tot,0,157,0,Low (<10%),Africa,Sub-Saharan Africa,2.109099
+GNQ,226,Equatorial Guinea,bws,Tot,0,157,0,Low (<10%),Africa,Sub-Saharan Africa,1.360104
+LBR,430,Liberia,bws,Tot,0,157,0,Low (<10%),Africa,Sub-Saharan Africa,4.97772
+COM,174,Comoros,bws,Tot,-9999,165,-9999,NoData,Africa,Sub-Saharan Africa,0.85091
+CPV,132,Cape Verde,bws,Tot,-9999,165,-9999,NoData,Africa,Sub-Saharan Africa,0.560349
+MUS,480,Mauritius,bws,Tot,-9999,165,-9999,NoData,Africa,Sub-Saharan Africa,1.271368
+STP,678,São Tomé and Príncipe,bws,Tot,-9999,165,-9999,NoData,Africa,Sub-Saharan Africa,0.213379
+SYC,690,Seychelles,bws,Tot,-9999,165,-9999,NoData,Africa,Sub-Saharan Africa,0.095702
